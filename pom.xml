@@ -8,7 +8,7 @@
         <version>3.4.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>tropicalsoftware.com.br</groupId>
+    <groupId>br.com.tropicalsoftware</groupId>
     <artifactId>devverse-api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>devverse-api</name>

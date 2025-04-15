@@ -1,0 +1,4 @@
+package br.com.tropicalsoftware.devverseapi.user.repository;
+
+public interface UserService {
+}

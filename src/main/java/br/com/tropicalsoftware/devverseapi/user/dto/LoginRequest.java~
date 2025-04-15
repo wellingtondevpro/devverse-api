@@ -1,0 +1,4 @@
+package br.com.tropicalsoftware.devverseapi.user.dto;
+
+public record LoginRequest() {
+}
